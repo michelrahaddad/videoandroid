@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-mergeDebugResources-30:/layout/activity_files_vlc_player.xml",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/activity_files_vlc_player.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-mergeDebugResources-30:/layout/activity_start.xml",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/activity_start.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-mergeDebugResources-30:/layout/pager_item.xml",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/pager_item.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-mergeDebugResources-30:/layout/activity_gallery.xml",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/activity_gallery.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-mergeDebugResources-30:/layout/fragment_sample.xml",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/fragment_sample.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-mergeDebugResources-30:/layout/fragment_downloadedfile.xml",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/fragment_downloadedfile.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-mergeDebugResources-30:/layout/layout_fullscreen_image.xml",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/layout_fullscreen_image.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-mergeDebugResources-30:/layout/downloaded_filelist.xml",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/downloaded_filelist.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-mergeDebugResources-30:/layout/activity_wifi.xml",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/activity_wifi.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-mergeDebugResources-30:/layout/activity_fullscreen_view.xml",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/activity_fullscreen_view.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-mergeDebugResources-30:/layout/fragment_control.xml",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/fragment_control.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-mergeDebugResources-30:/layout/activity_videoview.xml",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/activity_videoview.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-mergeDebugResources-30:/layout/content_main.xml",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-mergeDebugResources-30:/layout/activity_fileselect.xml",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/activity_fileselect.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-mergeDebugResources-30:/layout/activity_filelist.xml",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/activity_filelist.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-mergeDebugResources-30:/layout/files_program_list.xml",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/files_program_list.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-mergeDebugResources-30:/layout/main_activity.xml",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/main_activity.xml"
+    }
+]

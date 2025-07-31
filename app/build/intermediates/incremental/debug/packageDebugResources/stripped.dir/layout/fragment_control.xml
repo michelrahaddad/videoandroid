@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tvName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="CV GoPlus Drone"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <SurfaceView
+        android:id="@+id/surfaceView"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_below="@id/tvName"
+        android:layout_marginTop="10dp" />
+
+    <TextView
+        android:id="@+id/tvRecordTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/surfaceView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="00:00"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tvSpeed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvRecordTime"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:text="Speed: 0"
+        android:textSize="14sp" />
+
+    <RelativeLayout
+        android:id="@+id/rlControlLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvSpeed"
+        android:layout_marginTop="20dp"
+        android:padding="10dp">
+
+        <!-- Joystick esquerdo -->
+        <View
+            android:id="@+id/joystickViewLeft"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@android:color/darker_gray" />
+
+        <!-- Joystick direito -->
+        <View
+            android:id="@+id/joystickViewRight"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@android:color/darker_gray" />
+
+        <!-- Botões de controle -->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/bnUp"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:text="↑" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/bnLeft"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="←" />
+
+                <Button
+                    android:id="@+id/bnTakeOff"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="T" />
+
+                <Button
+                    android:id="@+id/bnRight"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="→" />
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/bnDown"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:text="↓" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <!-- Botões de ação -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/bnGallery"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="10dp"
+            android:background="@android:color/transparent"
+            android:src="@android:drawable/ic_menu_gallery" />
+
+        <ImageButton
+            android:id="@+id/bnCapture"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="10dp"
+            android:background="@android:color/transparent"
+            android:src="@android:drawable/ic_menu_camera" />
+
+        <ImageButton
+            android:id="@+id/bnRecord"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="10dp"
+            android:background="@android:color/transparent"
+            android:src="@android:drawable/ic_media_play" />
+
+        <ImageButton
+            android:id="@+id/bnHide"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="10dp"
+            android:background="@android:color/transparent"
+            android:src="@android:drawable/ic_menu_close_clear_cancel" />
+
+        <Button
+            android:id="@+id/bnGravity"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="10dp"
+            android:text="G" />
+
+        <Button
+            android:id="@+id/bnLandOn"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="10dp"
+            android:text="L" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/ivBroken"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_margin="10dp"
+        android:src="@android:drawable/ic_dialog_alert"
+        android:visibility="gone" />
+
+</RelativeLayout>
+

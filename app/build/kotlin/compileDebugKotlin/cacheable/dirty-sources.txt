@@ -1,0 +1,5 @@
+/workspace/app/src/main/java/com/videolaringoscopio/api/BatteryRoutes.kt
+/workspace/app/src/main/java/com/videolaringoscopio/api/BatteryAPI.kt
+/workspace/app/src/main/java/com/videolaringoscopio/ui/components/BatteryComponents.kt
+/workspace/app/src/main/java/com/droneapp/MainScreen.kt
+/workspace/app/src/main/java/com/videolaringoscopio/battery/BatteryMonitoringViewModel.kt

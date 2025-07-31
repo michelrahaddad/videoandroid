@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-mdpi_camera.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-mdpi/camera.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-xxhdpi_loading.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-xxhdpi/loading.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/raw_take.wav.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/raw/take.wav"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-mdpi_loading.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-mdpi/loading.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-hdpi_loading.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-hdpi/loading.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-xxhdpi_camera_disable.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-xxhdpi/camera_disable.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-xhdpi_loading.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-xhdpi/loading.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-xhdpi_camera_disable.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-xhdpi/camera_disable.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/layout_fragment_control.xml.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/fragment_control.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-hdpi_camera.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-hdpi/camera.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/layout_content_main.xml.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/layout_activity_gallery.xml.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/activity_gallery.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/layout_downloaded_filelist.xml.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/downloaded_filelist.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-xxxhdpi_video_recode.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-xxxhdpi/video_recode.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/layout_activity_fileselect.xml.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/activity_fileselect.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/raw_left.wav.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/raw/left.wav"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-hdpi_video_recode.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-hdpi/video_recode.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/layout_fragment_downloadedfile.xml.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/fragment_downloadedfile.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/raw_landing.wav.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/raw/landing.wav"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-hdpi_video.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-hdpi/video.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/drawable_broken.xml.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/drawable/broken.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-xhdpi_video.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-xhdpi/video.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/layout_activity_start.xml.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/activity_start.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-xhdpi_video_recode.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-xhdpi/video_recode.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-mdpi_video_disable.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-mdpi/video_disable.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/raw_lock.wav.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/raw/lock.wav"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-hdpi_camera_disable.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-hdpi/camera_disable.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/menu_activity_main_drawer.xml.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/layout_fragment_sample.xml.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/fragment_sample.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-xxxhdpi_loading.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-xxxhdpi/loading.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/layout_activity_videoview.xml.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/activity_videoview.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/layout_main_activity.xml.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/main_activity.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/layout_activity_filelist.xml.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/activity_filelist.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-xxxhdpi_video_disable.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-xxxhdpi/video_disable.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-mdpi_video.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-mdpi/video.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-xxxhdpi_video.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-xxxhdpi/video.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/menu_menu_downloaded.xml.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/menu/menu_downloaded.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-mdpi_video_recode.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-mdpi/video_recode.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/raw_right.wav.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/raw/right.wav"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/layout_activity_wifi.xml.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/activity_wifi.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-xxhdpi_video.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-xxhdpi/video.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-xxxhdpi_camera.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-xxxhdpi/camera.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/raw_lost.wav.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/raw/lost.wav"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-xhdpi_camera.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-xhdpi/camera.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-hdpi_video_disable.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-hdpi/video_disable.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-xxhdpi_camera.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-xxhdpi/camera.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/xml_preferences.xml.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/xml/preferences.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/layout_activity_fullscreen_view.xml.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/activity_fullscreen_view.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-mdpi_camera_disable.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-mdpi/camera_disable.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-xhdpi_video_disable.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-xhdpi/video_disable.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/layout_layout_fullscreen_image.xml.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/layout_fullscreen_image.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/menu_menu_edit.xml.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/menu/menu_edit.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/layout_activity_files_vlc_player.xml.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/activity_files_vlc_player.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-xxhdpi_video_recode.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-xxhdpi/video_recode.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/layout_files_program_list.xml.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/files_program_list.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/layout_pager_item.xml.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/layout/pager_item.xml"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-xxhdpi_video_disable.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-xxhdpi/video_disable.png"
+    },
+    {
+        "merged": "com.generalplus.GoPlusDrone.app-merged_res-31:/mipmap-xxxhdpi_camera_disable.png.flat",
+        "source": "com.generalplus.GoPlusDrone.app-main-33:/mipmap-xxxhdpi/camera_disable.png"
+    }
+]
