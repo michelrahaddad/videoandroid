@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.seuprojeto.videolaringoscopio'
+    namespace 'com.generalplus.GoPlusDrone'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.seuprojeto.videolaringoscopio"
+        applicationId "com.generalplus.GoPlusDrone"
         minSdk 24
         targetSdk 34
         versionCode 1
